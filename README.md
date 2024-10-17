@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Mishra</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**, **R Programming Language for Staistics** , **Python**
 
 - 📫 How to reach me **prmi00003@stud.uni-saarland.de**
 
