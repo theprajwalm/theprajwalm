@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Spring Boot**, **R Programming Language for Statistics** , **Python**
-- I'm specilizing myself for **Software Engineering and Software Security**
+- I'm specilizing myself in **Software Engineering and Software Security**
 
 - 📫 How to reach me **prmi00003@stud.uni-saarland.de**
 
