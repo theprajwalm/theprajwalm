@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**, **R Programming Language for Statistics** , **Python**
 - I'm specilizing myself in **Software Engineering and Software Security**
-- My Hobbies are **Playing Table Tennis**, **Swimming**, **Playing Guitar**, **Bicycling** and many more!
+- My Hobbies are **Playing Table Tennis**, **Swimming**, **Playing Guitar**, **Bicycling**
 
 - 📫 How to reach me **prmi00003@stud.uni-saarland.de**
 
