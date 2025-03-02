@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Mishra</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Spring Boot**, **Python**
-- I'm specilizing myself in **Software Engineering and Software Security**
-- My Hobbies are **Playing Table Tennis**, **Swimming**, **Playing Guitar**, **Bicycling**
-
 - 📫 How to reach me **prmi00003@stud.uni-saarland.de**
 
 <h3 align="left">Connect with me:</h3>
